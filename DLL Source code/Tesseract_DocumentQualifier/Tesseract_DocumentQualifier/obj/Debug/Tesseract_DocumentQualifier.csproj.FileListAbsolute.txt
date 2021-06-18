@@ -1,0 +1,5 @@
+C:\Users\Sikha.P\source\repos\Tesseract_DocumentQualifier\Tesseract_DocumentQualifier\bin\Debug\Tesseract_DocumentQualifier.dll
+C:\Users\Sikha.P\source\repos\Tesseract_DocumentQualifier\Tesseract_DocumentQualifier\bin\Debug\Tesseract_DocumentQualifier.pdb
+C:\Users\Sikha.P\source\repos\Tesseract_DocumentQualifier\Tesseract_DocumentQualifier\obj\Debug\Tesseract_DocumentQualifier.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\Tesseract_DocumentQualifier\Tesseract_DocumentQualifier\obj\Debug\Tesseract_DocumentQualifier.dll
+C:\Users\Sikha.P\source\repos\Tesseract_DocumentQualifier\Tesseract_DocumentQualifier\obj\Debug\Tesseract_DocumentQualifier.pdb

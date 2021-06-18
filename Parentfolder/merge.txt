@@ -1,0 +1,372 @@
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+INFO:root:INFO
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 1_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA 2_3.png-File does not exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_1.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_2.png-File exist
+INFO:root:C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output\DRAEGER SAFETY AG & CO. KGAA_3.png-File does not exist

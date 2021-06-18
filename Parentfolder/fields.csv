@@ -1,0 +1,7 @@
+Field,Required
+Liefasdermin|Liefertermin,1
+Lieferbed,1
+Zahlungsbed,1
+Bestellung,0
+Lieferantennummer,0
+Material,1

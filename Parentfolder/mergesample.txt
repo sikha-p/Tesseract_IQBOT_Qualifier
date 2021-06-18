@@ -1,0 +1,18 @@
+C:\Users\Sikha.P\PROJECTS\IQBot_qulifier
+C:\Users\Sikha.P\PROJECTS\IQBot_qulifier INFO  C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\docs C:\Users\Sikha.P\PROJECTS\IQBot_qulifier\output    
+
+
+
+
+There was a problem at line 2
+This may be due to the following reason:
+
+Supported file extensions for 'filePath' are 'pdf'
+
+
+To continue, edit the bot and fix the error. Then, try again.
+
+
+If you continue to see this message, please contact your system administrator.
+
+Code: bot.execution.error
